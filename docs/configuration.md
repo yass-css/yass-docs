@@ -82,7 +82,7 @@ Make sure to escape any special CSS characters, like `:`, `\`, `%`, etc.
 
 ---
 #### `src`
-**Description:** Relative directory that points to your source folder, for example: `"./src"`. If set, Just In Time compilation will be enabled. Read more about JIT Yass [here](/jit)
+**Description:** Relative directory that points to your source folder, for example: `"./src"`. If set, Just In Time compilation will be enabled. Read more about JIT Yass [here](/docs/jit)
 
 **Type:** `boolean`
 
