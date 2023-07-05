@@ -44,5 +44,8 @@ If you take a look at the generated stylesheet at `styles/yass/yass.css`, you wi
 You can now use these Yass classes to style your site. Create an `index.html` with the following content:
 
 ```html
-
+<div class="display:flex flex-direction-column gap:scale-100">
+  <h1>Hello from Yass</h1>
+  <button>Click me!</button>
+</div>
 ```
