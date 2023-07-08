@@ -1,6 +1,6 @@
 # Website
 
-Hosted at: https://yass-org.github.io/yass-docs/docs/
+Hosted at: https://yass-org.github.io/yass-docs/
 
 ### Installation
 
