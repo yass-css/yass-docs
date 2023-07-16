@@ -81,6 +81,14 @@ Make sure to escape any special CSS characters, like `:`, `\`, `%`, etc.
 **Default:** `true`
 
 ---
+#### `stylesheet.include.pseudos`
+**Description:** Whether or not to generate the pseudo-class selectors, like `background-color:green-500:hover`.
+
+**Type:** `boolean`
+
+**Default:** `true`
+
+---
 #### `src`
 **Description:** Relative directory that points to your source folder, for example: `"./src"`. If set, Just In Time compilation will be enabled. Read more about JIT Yass [here](/docs/jit)
 
